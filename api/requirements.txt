@@ -13,7 +13,7 @@ langchain==0.0.142
 llama-index==0.5.27
 openai~=0.27.5
 psycopg2-binary~=2.9.6
-pycryptodome==3.17
+pycryptodome==3.19.1
 python-dotenv==1.0.0
 pytest~=7.3.1
 tiktoken==0.3.3
